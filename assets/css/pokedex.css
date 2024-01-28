@@ -69,6 +69,10 @@
     border-radius: 1rem;
 }
 
+a.pokemon-link  {
+    text-decoration: none;
+}
+
 .pokemon .number {
     color: #000;
     opacity: .3;
